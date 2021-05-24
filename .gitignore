@@ -169,4 +169,6 @@ tests/test_edit_views_temp.py
 **/.idea/**
 **/*.sqlite3
 **/uploads/**
+!**/uploads/VJfDk7oJflE.jpg
+
 **/staticfiles/**

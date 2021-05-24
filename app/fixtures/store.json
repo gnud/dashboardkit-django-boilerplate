@@ -1,0 +1,10 @@
+[
+  {
+    "model": "app.store",
+    "pk": 1,
+    "fields": {
+      "name": "FirstStore",
+      "address": "Bla bla str. 214"
+    }
+  }
+]

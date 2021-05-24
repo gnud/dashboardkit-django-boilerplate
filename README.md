@@ -39,6 +39,13 @@ pip install -r requirements.txt
 ./manage.py createsuperuser
 ```
 
+### Fixture initial data
+
+```bash
+./manage.py loaddata app/fixtures/store.json
+./manage.py loaddata app/fixtures/product.json
+```
+
 ### Run project
 
 ```bash
